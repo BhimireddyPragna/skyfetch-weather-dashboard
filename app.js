@@ -1,4 +1,4 @@
-app.js
+
 function WeatherApp(apiKey) {
     this.apiKey = apiKey;
     this.apiUrl = "https://api.openweathermap.org/data/2.5/weather";
